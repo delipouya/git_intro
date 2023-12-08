@@ -1,2 +1,5 @@
 this is testing remote branches
+
 this is a line added in the main branch
+this is a newline added on the conflict_branch
+
