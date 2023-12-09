@@ -4,3 +4,11 @@ this is a change for our second commit
 aasdfsdkjf
 this liine is new to readme
 this is a change to readme file in our review
+# Largest Heading
+## Second Largest Heading
+### Third Largest Heading
+**bold**
+*italic*
+~~strikethrough~~
+**this is a *nested* example**
+***bold and italic***
